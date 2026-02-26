@@ -1,6 +1,6 @@
 🍹 Rejouice Website
 
-A beautiful and responsive juice brand landing page designed using HTML, CSS, and JavaScript. This project showcases a clean UI with vibrant visuals and interactive elements, perfect for presenting products, promotions, and information for a juice business or brand.
+A beautiful and responsive Rejouice brand landing page designed using HTML, CSS, and JavaScript. This project showcases a clean UI with vibrant visuals and interactive elements, perfect for presenting products, promotions, and information for a juice business or brand.
 
 ✨ Features
 
